@@ -1,13 +1,13 @@
 # Site settings
-title: JH Blog
-SEOTitle: Johnny的博客 | JH Blog
+title: Leo Blog
+SEOTitle: Leo的博客 | Leo Blog
 header-img: img/post-bg-desk.jpg
-email: anaconda_fire@outlook.com
-description: "Every failure is leading towards success."
-keyword: "Artificial Intelligence, Reinforcement Learning, Machine Learning"
-url: "http://sweetice.github.io"          # your host, for absolute URL
+email: leo_ma@tongji.edu.cn
+description: "学术垃圾。"
+keyword: "Distributed Optimization"
+url: "http://derek1998.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/sweetice/sweetice.github.io.git" # you code repository
+github_repo: "https://github.com/derek1998/derek1998.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,10 +19,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     bu-tuo-de-tuo-yuan/activities
-github_username:    sweetice
-facebook_username:  profile.php?id=100010973168548
-jianshu_username:   
+# zhihu_username:     bu-tuo-de-tuo-yuan/activities
+github_username:    derek1998
+# facebook_username:  profile.php?id=100010973168548
+# jianshu_username:   
 #twitter_username:   qiubaiying
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: aea80247d3d40adbd77d                           #生成的clientID
-  clientSecret: 2fd0bbb16507f1760985ad1393226e76386afc8d    #生成的clientSecret
-  repo: sweetice.github.io    #仓库名称
-  owner: sweetice    #github用户名
-  admin: sweetice
+  clientID: 162a2ce1ad9d2fe8580e                           #生成的clientID
+  clientSecret: c84be8856ea429b6100eb70e029fc9ce9519d627    #生成的clientSecret
+  repo: derek1998.github.io    #仓库名称
+  owner: derek1998    #github用户名
+  admin: Leo
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -76,7 +76,7 @@ gitalk:
 # Baidu Analytics
 
 # Google Analytics
-ga_track_id: 'UA-126839952-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'G-20Q36HR3QK'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
