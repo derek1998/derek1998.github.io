@@ -10,11 +10,8 @@ tags:
 ---
 
 ## 用户添加与删除
-
 添加用户lihua：
-
 `$adduser lihua`，用户名必须为小写。
-
 修改lihua的密码：
 
 `$passwd lihua`
@@ -31,6 +28,7 @@ tags:
 
 ```python
 # Allow members of group sudo to execute any command
+
 %sudo ALL=(ALL:ALL) ALL
 ```
 添加`lihua ALL=(ALL) ALL`，赋予lihua root权限。
