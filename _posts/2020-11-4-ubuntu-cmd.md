@@ -11,17 +11,17 @@ tags:
 
 ## 用户添加与删除
 
-1. 添加用户lihua
+添加用户lihua：
 
 `$adduser lihua`，用户名必须为小写。
 
-2. 修改lihua的密码
+修改lihua的密码：
 
 `$passwd lihua`
 
 若要修改当前登陆用户本人的密码，直接使用`$passwd`。
 
-3. 删除用户lihua
+删除用户lihua：
 
 `$userdel -r lihua`
 
