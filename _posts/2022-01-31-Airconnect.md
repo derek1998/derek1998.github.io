@@ -35,15 +35,19 @@ tags:
 
 ## xbar 安装与使用（该软件让你可以直接在通知栏里面点击按钮使用或停止 Airconnect）
 
-1. 在 [该网址](https://github.com/matryer/xbar/releases) 下载最新版并安装，安装完成之后先不要打开；
+1.在 [该网址](https://github.com/matryer/xbar/releases) 下载最新版并安装，安装完成之后先不要打开；
 
-2. 在 [该网址](https://xbarapp.com/docs/plugins/Music/airconnect.1d.sh.html) 中点击 "open in xbar app" 按钮，打开 xbar 软件并安装插件；
+2.在 [该网址](https://xbarapp.com/docs/plugins/Music/airconnect.1d.sh.html) 中点击 "open in xbar app" 按钮，打开 xbar 软件并安装插件；
+
 ![img](https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin%20window.png?raw=true)
 
-3. 安装完成之后在插件配置界面点击 “open in external editor” 修改代码；（图片无法查看可以点击 [图片](https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin.png)）
+3.安装完成之后在插件配置界面点击 “open in external editor” 修改代码；（图片无法查看可以点击 [图片](https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin.png)）
+
 ![img](https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin.png?raw=true)
 
-4. 使用如下代码替换原有代码（若代码显示错误也可以点击 [这里](https://github.com/derek1998/derek1998.github.io/blob/main/src/xbar_plugin.txt)）：{% highlight csharp %}
+4.使用如下代码替换原有代码（若代码显示错误也可以点击 [这里](https://github.com/derek1998/derek1998.github.io/blob/main/src/xbar_plugin.txt)）：
+
+{% highlight csharp %}
 #!/bin/bash
 
 ###
@@ -171,10 +175,11 @@ else
 fi
 {% endhighlight %}
 
-5. 接着在插件配置界面左上角点击刷新按钮。
+5.接着在插件配置界面左上角点击刷新按钮。
+
 ![img](https://github.com/derek1998/derek1998.github.io/blob/main/figures/refresh.png?raw=true)
 
-6. 在通知栏里找到 xbar 图标，点击 “start Airconnect” 即可开始使用！
+6.在通知栏里找到 xbar 图标，点击 “start Airconnect” 即可开始使用！
 
 
 
