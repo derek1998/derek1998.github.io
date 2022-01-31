@@ -172,7 +172,6 @@ else
 fi
 {% endhighlight %}
 
-
 5. 接着在插件配置界面左上角点击刷新按钮。
 ![img](https://github.com/derek1998/derek1998.github.io/blob/main/figures/refresh.png?raw=true)
 
