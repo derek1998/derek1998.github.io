@@ -43,8 +43,7 @@ tags:
 3. 安装完成之后在插件配置界面点击 “open in external editor” 修改代码；（图片无法查看可以点击 [图片](https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin.png)）
 ![img](https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin.png?raw=true)
 
-4. 使用 [代码](https://github.com/derek1998/derek1998.github.io/blob/main/src/xbar_plugin.txt) 替换原有代码；
-
+4. 使用如下代码替换原有代码（若代码显示错误也可以点击 [这里](https://github.com/derek1998/derek1998.github.io/blob/main/src/xbar_plugin.txt)）：
 {% highlight csharp %}
 #!/bin/bash
 
