@@ -35,7 +35,7 @@ tags:
 2. 在 [该网址](https://xbarapp.com/docs/plugins/Music/airconnect.1d.sh.html) 中点击 "open in xbar app" 按钮，打开 xbar 软件并安装插件；
 3. 安装完成之后在插件配置界面点击 “open in external editor” 修改代码；
 <img src="figures/plugin.png" width="100%">
-4. 使用 [代码]() 替换原有代码：
+4. 使用 [代码](https://github.com/derek1998/derek1998.github.io/blob/main/src/xbar_plugin.txt) 替换原有代码：
 5. 接着在插件配置界面左上角点击刷新按钮。
 6. 在通知栏里找到 xbar 图标，点击 “start Airconnect” 即可开始使用！
 
