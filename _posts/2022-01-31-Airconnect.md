@@ -178,6 +178,8 @@ fi
 
 5. 接着在插件配置界面左上角点击刷新按钮。
 
+![img](https://github.com/derek1998/derek1998.github.io/blob/main/figures/refresh.png?raw=true)
+
 6. 在通知栏里找到 xbar 图标，点击 “start Airconnect” 即可开始使用！
 
 
