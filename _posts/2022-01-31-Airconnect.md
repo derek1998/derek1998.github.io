@@ -47,7 +47,7 @@ tags:
 
 4. 使用 [代码](https://github.com/derek1998/derek1998.github.io/blob/main/src/xbar_plugin.txt) 替换原有代码；
 
-```C#
+{% highlight csharp %}
 #!/bin/bash
 
 ###
@@ -173,7 +173,7 @@ else
 	echo "Not Running"
 	echo "Start $app | bash='$0' param1=start terminal=false refresh=true"
 fi
-```
+{% endhighlight %}
 
 
 5. 接着在插件配置界面左上角点击刷新按钮。
