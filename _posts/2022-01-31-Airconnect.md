@@ -33,7 +33,7 @@ tags:
 1. 在 [该网址](https://github.com/matryer/xbar/releases) 下载最新版并安装，安装完成之后先不要打开；
 2. 在 [该网址](https://xbarapp.com/docs/plugins/Music/airconnect.1d.sh.html) 中点击 "open in xbar app" 按钮，打开 xbar 软件并安装插件；
 3. 安装完成之后在插件配置界面点击 “open in external editor” 修改代码；
-<img src="https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin.png" width="20%">
+<img src="https://github.com/derek1998/derek1998.github.io/blob/main/figures/plugin.png" width="30%">
 
 4. 使用 [代码](https://github.com/derek1998/derek1998.github.io/blob/main/src/xbar_plugin.txt) 替换原有代码：
 5. 接着在插件配置界面左上角点击刷新按钮。
