@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  使用 Airconnected 将音箱接入 Airplay
+title:  使用 Airconnect 将音箱接入 Airplay
 date:   2022-01-31
 author:     Leo
 header-img: img/post_bao_yan.jpg
