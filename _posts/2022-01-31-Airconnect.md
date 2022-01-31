@@ -7,7 +7,7 @@ header-img: img/post_bao_yan.jpg
 catalog: true
 # toc: true
 tags:
-    - 杂七杂八
+    - Something else
 ---
 <!-- * 目录  
 {:toc #markdown-toc} -->
